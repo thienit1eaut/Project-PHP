@@ -1,0 +1,1 @@
+<div style="color: Gray; text-align: center;">Bản quyền thuộc về INTECH.</div>
